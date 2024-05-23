@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+
+.movie-container{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.card{
+    border: 2px solid black;
+    border-radius: 5%;
+
+}

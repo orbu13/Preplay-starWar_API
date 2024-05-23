@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+.creatingDiv{
+    border: 2px solid black;
+    border-radius: 5%;
+    gap: 15px;
+}
+
+.creatingButton{
+    background-color: aqua;
+}
